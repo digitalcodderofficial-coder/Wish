@@ -1,0 +1,6 @@
+{
+  "name": "Syntax & Silhouette",
+  "description": "Interactive split-screen 3D WebGL particle point-cloud experience pairing a live syntax-highlighted code workspace with two materializing holographic human figures and lyrical finale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
